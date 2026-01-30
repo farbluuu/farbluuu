@@ -16,7 +16,7 @@ I’m a **Software Developer** with about **3 years of experience** working on v
 
 I really enjoy the process of building components and seeing them come to life. Right now, I’m just focused on getting better at what I do—whether it’s refining my code or practicing my English.
 
-*"Thanks GOD, I'm Alive"*
+*"Trying to survive daily tasks. Thanks GOD, I'm alive. — Full-stack Explorer"*
 
 ---
 
