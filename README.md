@@ -42,14 +42,14 @@ I really enjoy the process of building components and seeing them come to life. 
 **Backend & Architecture:**
 - **Languages:** Node.js, Nest.js, .Net MVC, Python, Kotlin
 - **Concepts:** RESTful API, MVC, Refine
-- **CMS:** Adobe Experience Manager (AEM 6.5) (Entry-level)
+- **CMS:** Adobe Experience Manager (AEM 6.5) 
 
 **Database:**
 - **SQL:** PostgreSQL, MySQL, MSSQL
 - **NoSQL:** MongoDB, Firebase
 
 **Tools & Workflow:**
-- **Containerization:** Docker (Entry-level)
+- **Containerization:** Docker 
 - **Version Control:** Git, GitLab, Fork
 - **Management:** Jira, Plane, Trello
 - **Development:** VS Code, Postman, Figma, DBeaver, Table Plus
