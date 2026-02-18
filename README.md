@@ -6,7 +6,7 @@
 <p align="left">
   <a href="mailto:faramita.rm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/amita-roma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://drive.google.com/drive/folders/1DwUbjj6vDWVT_DwceQs_YzyAZ48eK9jF?usp=share_link" target="_blank">
+  <a href="https://drive.google.com/drive/u/2/folders/1DwUbjj6vDWVT_DwceQs_YzyAZ48eK9jF" target="_blank">
   <img src="https://img.shields.io/badge/RESUME-FFB800?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
   <a href="https://me-and-farbluu.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-4B32C3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
