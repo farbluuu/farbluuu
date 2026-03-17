@@ -1,5 +1,5 @@
 # Hi there! I'm farbluuu ( AMITA ROMA )👋 
-### Software Developer | Frontend Developer | Full-stack Explorer
+### Software Developer | Frontend Developer
 
 ---
 
@@ -16,11 +16,13 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a **Software Developer** with about **3 years of experience** working on various enterprise projects. My daily work mainly involves **React.js** and **Next.js**, and lately, I’ve been spending more time with **AEM 6.5**.
+I’m a Software Developer with 3+ years of experience building web applications in enterprise environments.
 
-I really enjoy the process of building components and seeing them come to life. Right now, I’m just focused on getting better at what I do—whether it’s refining my code or practicing my English.
+My main focus is on React.js and Next.js, where I specialize in building scalable, maintainable, and high-performance UI components.
 
-*"Trying to survive daily tasks. Thanks GOD, I'm alive. — Full-stack Explorer"*
+I enjoy turning ideas into real products and continuously improving my engineering skills. Currently, I’m expanding into backend and DevOps to better understand systems end-to-end.
+
+"Always learning. Always improving."
 
 ---
 
@@ -35,26 +37,25 @@ I really enjoy the process of building components and seeing them come to life. 
   <img src="https://img.shields.io/badge/LINE_LIFF-00C300?style=for-the-badge&logo=line&logoColor=white" />
 </p>
 
-### 🛠️ Full Tech Stack & Tools
+### 🛠️ Tech Stack
 
-**Frontend & Styling:**
-- **Frameworks/Libraries:** React, Next.js, React Query, MUI, Ant Design, Shadcn/ui ,LINE LIFF
-- **CSS:** Tailwind, Bootstrap, jQuery
+**Frontend**
+- React, Next.js, React Query (TanStack Query)
+- MUI, Ant Design, Shadcn/ui
+- Tailwind CSS
 
-**Backend & Architecture:**
-- **Languages:** Node.js, Nest.js, .Net MVC, Python, Kotlin
-- **Concepts:** RESTful API, MVC, Refine
-- **CMS:** Adobe Experience Manager (AEM 6.5) 
+**Backend**
+- Node.js, NestJS
+- REST API Design
 
-**Database:**
-- **SQL:** PostgreSQL, MySQL, MSSQL
-- **NoSQL:** MongoDB, Firebase
+**Database**
+- PostgreSQL, MySQL
+- MongoDB
 
-**Tools & Workflow:**
-- **Containerization:** Docker 
-- **Version Control:** Git, GitLab, Fork
-- **Management:** Jira, Plane, Trello
-- **Development:** VS Code, Postman, Figma, DBeaver, Table Plus
+**DevOps / Tools**
+- Docker (basic)
+- Git, GitLab
+- Postman
 
 ---
 
